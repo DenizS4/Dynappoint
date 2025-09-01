@@ -1,7 +1,10 @@
 # 📅 Dynappoint
 
-**Dynappoint** is a dynamic, admin-driven appointment platform.  
-Designed for flexibility—whether you’re a **dentist**, **course instructor**, or any business using appointment scheduling.
+Dynappoint is a fully customizable, admin-driven appointment management platform built for businesses of all shapes and sizes.
+
+Whether you’re a dentist managing patient visits, a course instructor scheduling classes, a fitness coach booking training sessions, or a consultant handling client meetings—Dynappoint adapts to your workflow.
+
+With an intuitive admin panel, you can edit every section—from About pages and schedules to blogs, videos, and SEO—without touching code. Built on a modern stack (Next.js, React, Tailwind, PostgreSQL, and Supabase), it delivers a seamless experience that’s fast, scalable, and easy to maintain.
 
 🌐 **Live Demo:** [dynappoint.vercel.app](https://dynappoint.vercel.app)  
 
