@@ -1,4 +1,4 @@
-# 🚀 Dynappoint
+# 📅 Dynappoint
 
 **Dynappoint** is a dynamic, admin-driven appointment platform.  
 Designed for flexibility—whether you’re a **dentist**, **course instructor**, or any business using appointment scheduling.
@@ -25,15 +25,17 @@ Designed for flexibility—whether you’re a **dentist**, **course instructor**
 ---
 
 ## 📸 Screenshots
-
+<p align="center">
+  <img src="public/dynappoint.png" width="90%" alt="Dynapoint" />
+</p>
 <p align="center">
   <img src="public/admin_panel.png" width="45%" alt="Admin Dashboard" />
    <img src="public/appointments.png" width="45%" alt="Appointments" />
 </p>
 
 <p align="center">
-  <img src="public/about.png" width="30%" alt="About Us Section" />
   <img src="public/schedule.png" width="30%" alt="Schedule Section" />
+  <img src="public/about.png" width="30%" alt="About Us Section" />  
   <img src="public/footer.png" width="30%" alt="Footer Section" />
 </p>
 <p align="center">
