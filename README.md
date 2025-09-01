@@ -1,5 +1,7 @@
 # 📅 Dynappoint
 
+**Dynamic appointment scheduling that adapts to you.**
+
 Dynappoint is a fully customizable, admin-driven appointment management platform built for businesses of all shapes and sizes.
 
 Whether you’re a dentist managing patient visits, a course instructor scheduling classes, a fitness coach booking training sessions, or a consultant handling client meetings—Dynappoint adapts to your workflow.
